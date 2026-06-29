@@ -1,0 +1,44 @@
+# CADASTROS
+
+TIPO: Arte Generativa
+TITULO: Matriz Infinito
+AUTOR: Ruan
+ATRIBUTO 1 (Algoritmo): Cellular Automata
+ATRIBUTO 2 (Seed): 404040
+
+TIPO: Modelagem 3D
+TITULO: Templo Esquecido
+AUTOR: Elena
+ATRIBUTO 1 (Poligonos): 125000
+ATRIBUTO 2 (Engine): Unreal Engine 5
+
+TIPO: Pintura Digital
+TITULO: Neon Samurai
+AUTOR: Ruan
+ATRIBUTO 1 (Resolucao): 8K
+ATRIBUTO 2 (Software): Procreate
+
+# DUPLICADO (TESTE DE ERRO)
+TIPO: Pintura Digital
+TITULO: Neon Samurai
+AUTOR: Ruan
+
+# AVALIACOES
+TITULO: Matriz Infinito
+USUARIO: João
+NOTA: 10
+
+TITULO: Matriz Infinito
+USUARIO: João
+NOTA: 1
+
+TITULO: Templo Esquecido
+USUARIO: Avaliador 2
+NOTA: 8
+COMENTARIO: Boa topologia.
+
+# AVALIACAO INVALIDA (TESTE DE ERRO)
+TITULO: Matriz Infinito
+USUARIO: Hacker
+NOTA: 15
+COMENTARIO: Testando a excecao.
