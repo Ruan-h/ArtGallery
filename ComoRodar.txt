@@ -1,0 +1,7 @@
+cd src
+javac artgallery/**/*.java artgallery/*.java
+java artgallery.Main
+
+Windows no Shell:
+.\jdk-21\bin\javac.exe -encoding UTF-8 -d bin (Get-ChildItem -Recurse -Filter *.java).FullName
+.\jdk-21\bin\java.exe -cp bin artgallery.Main
